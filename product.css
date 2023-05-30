@@ -1,0 +1,9 @@
+
+.wrap{
+	width: 90%;
+	max-width: 1100px;
+	margin: 50px auto;
+  display: inline-block;
+  border: 1px solid blue;
+  background-color: yellow;
+}
